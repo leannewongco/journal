@@ -14,3 +14,8 @@
   - review SSO course launch checklist.
   - prepare Convertkit email sequences.
     
+## 6 July 2021, Tuesday
+
+- Worked on client's SEO project until 8pm. 
+- Uploaded IGTV 1-min video, Site Speed Basics: How does page loading work?
+- Drafted Email #1 of Pre-Launch SSO Email Sequence.
