@@ -19,3 +19,8 @@
 - Worked on client's SEO project until 8pm. 
 - Uploaded IGTV 1-min video, Site Speed Basics: How does page loading work?
 - Drafted Email #1 of Pre-Launch SSO Email Sequence.
+
+## 7 July 2021, Wednesday
+
+- Worked on client's SEO project until 6pm.
+- Update IGTV 1-min video, Site Speed Basics: How does page loading work?
