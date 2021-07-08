@@ -24,3 +24,8 @@
 
 - Worked on client's SEO project until 6pm.
 - Update IGTV 1-min video, Site Speed Basics: How does page loading work?
+
+## 8 July 2021, Wednesday
+
+- Worked on client's SEO project until 6pm.
+- Re-Posted IG stories on site speed and core web vitals.
