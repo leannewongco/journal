@@ -29,3 +29,4 @@
 
 - Worked on client's SEO project until 6pm.
 - Re-Posted IG stories on site speed and core web vitals.
+- [Learning] Listened to 2 Podcast Episodes on Courses,  1 video on Instagram
