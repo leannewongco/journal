@@ -33,3 +33,4 @@
 
 ## 9 July 2021, Wednesday
 - Worked on client's SEO project until 530pm.
+- [Learning] Listened to 2 Podcast Episodes on Courses,  2 video on Instagram
