@@ -25,12 +25,21 @@
 - Worked on client's SEO project until 6pm.
 - Update IGTV 1-min video, Site Speed Basics: How does page loading work?
 
-## 8 July 2021, Wednesday
+## 8 July 2021, Thursday
 
 - Worked on client's SEO project until 6pm.
 - Re-Posted IG stories on site speed and core web vitals.
 - [Learning] Listened to 2 Podcast Episodes on Courses,  1 video on Instagram
 
-## 9 July 2021, Wednesday
+## 9 July 2021, Friday
 - Worked on client's SEO project until 530pm.
-- [Learning] Listened to 2 Podcast Episodes on Courses,  2 video on Instagram
+- [Learning] Listened to 2 Podcast Episodes on Courses,  
+- [Learning] Instagram 3/10 - Feed Aesthetics
+
+## 10 July 2021, Saturday
+- [Learning] Instagram 4/10 - Captions and Copywriting, 5/10 - Hashtags, 6/10 - IG stories optimization.
+- Created 5 new pins with Tailwind Create.
+- Scheduled existing pins on Tailwind.
+- Uploaded 3-min YouTube video on 'Site speed basics: How does page loading work?'
+- Shared YouTube video in SEO for Beginners Bootcamp FB Group.
+- Edited blog post: Why your Pinterest monthly views are decreasing and how to fix it
