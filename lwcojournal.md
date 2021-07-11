@@ -40,8 +40,22 @@
 - [Learning] Instagram 4/10 - Captions and Copywriting, 5/10 - Hashtags, 6/10 - IG stories optimization.
 - Created 5 new pins with Tailwind Create.
 - Scheduled existing pins on Tailwind.
-- Uploaded on YouTube: 3-min video on 'Site speed basics: How does page loading work?'
+- Uploaded on YouTube: 3-min video on 'Site speed basics: How does page loading work?' + course waitlist link.
 - FB Group: Shared YouTube video in SEO for Beginners Bootcamp FB Group.
 - Edited blog post: Why your Pinterest monthly views are decreasing and how to fix it
+- [SSO Course] Course launch waitlist landing page.
+- [SSO Course] Convertkit form for Course launch waitlist.
+- [SSO Course] Course launch waitlist thank-you page.
 - [SSO Course] Email #1 - Site Speed Basics explainer video.
 - [SSO Course] Email Sequences mapping and plan.
+
+## 11 July 2021, Sunday
+- [SSO Course] Course Waitlist is Live. Added in IG link in bio, updated existing blog posts, announced on FB and IG organic posts.
+- [SSO Course] IG Stories: Published polls and questions.
+- [SSO Course] FB Group: Posted SSO course waitlist.
+- [SSO Course] FB Page and IG: Scheduled next week's SSO course waitlist post.
+- [SSO Course] Creatives: SSO Waitlist IG, FB Cover, FB Blog Post images.
+- Edited blog post: Site Speed Basics: How does page loading work? with course waitlist link.
+ 
+
+
