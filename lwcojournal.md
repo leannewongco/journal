@@ -55,7 +55,14 @@
 - [SSO Course] FB Group: Posted SSO course waitlist.
 - [SSO Course] FB Page and IG: Scheduled next week's SSO course waitlist post.
 - [SSO Course] Creatives: SSO Waitlist IG, FB Cover, FB Blog Post images.
-- Edited blog post: Site Speed Basics: How does page loading work? with course waitlist link.
+- Edited 5 blog posts: with course waitlist link.
+- [Learning] Content (Free vs Paid) and how to sell, 7/10 -Community engagement, 8/10 post optimization.
+
+## 12 July 2021, Monday
+- [SSO Course] FB Campaign Video Views: Launched 1-min video Site Speed Basics: How does page loading work.
+- [SSO Course] Email #2 - Live training on site speed 2021. [Draft]
+
+
  
 
 
