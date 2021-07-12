@@ -57,10 +57,12 @@
 - [SSO Course] Creatives: SSO Waitlist IG, FB Cover, FB Blog Post images.
 - Edited 5 blog posts: with course waitlist link.
 - [Learning] Content (Free vs Paid) and how to sell, 7/10 -Community engagement, 8/10 post optimization.
+- [Learning] Listened to Podcast episode, 5 course enhancements
 
 ## 12 July 2021, Monday
 - [SSO Course] FB Campaign Video Views: Launched 1-min video Site Speed Basics: How does page loading work.
 - [SSO Course] Email #2 - Live training on site speed 2021. [Draft]
+- [Learning] Listened to 4 podcasts episodes: Building confidence for FB Live, Fix conversion messaging, , Use content and storytelling for your business, 3 free organic traffic strategies to grow your audience quickly
 
 
  
