@@ -69,6 +69,9 @@
 - [SSO Course] Draft Live training outline and script.
 - [SSO Course] Decided on launch bonuses.
 
+## 13 July 2021, Tuesday
+- [SSO Course] Drafted first part of the Live training script.
+
 
 
 
