@@ -66,7 +66,7 @@
 
 ## 13 July 2021, Tuesday
 - [SSO Course] Decided on Live training dates and time in PST and EST.
-- [SSO Course] Draft Live training outline + script.
+- [SSO Course] Draft Live training outline and script.
 
 
 
