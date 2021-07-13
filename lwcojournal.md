@@ -64,6 +64,11 @@
 - [SSO Course] Email #2 - Live training on site speed 2021. [Draft]
 - [Learning] Listened to 4 podcasts episodes: Building confidence for FB Live, Fix conversion messaging, , Use content and storytelling for your business, 3 free organic traffic strategies to grow your audience quickly
 
+## 13 July 2021, Tuesday
+- [SSO Course] Decided on Live training dates and time in PST and EST.
+- [SSO Course] Draft Live training outline + script.
+
+
 
  
 
