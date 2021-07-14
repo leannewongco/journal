@@ -72,6 +72,8 @@
 ## 14 July 2021, Wednesday
 - [SSO Course] Drafted first part of the Live training script.
 - [Pinterest] Scheduled 7 days of new pins.
+- [Learning] Watched 3 videos from Social Media Examiner about Going Live. 
+
 
 
 
