@@ -69,8 +69,10 @@
 - [SSO Course] Draft Live training outline and script.
 - [SSO Course] Decided on launch bonuses.
 
-## 13 July 2021, Tuesday
+## 14 July 2021, Wednesday
 - [SSO Course] Drafted first part of the Live training script.
+- [Pinterest] Scheduled 7 days of new pins.
+
 
 
 
