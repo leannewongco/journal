@@ -74,6 +74,11 @@
 - [Pinterest] Scheduled 7 days of new pins.
 - [Learning] Watched 3 videos from Social Media Examiner about Going Live. 
 
+## 15 July 2021, Thursday
+- [SSO Course] Prepared live video camera settings.
+- [SSO Course] Draft broadcast email about the Live training.
+- [SSO Course] Prepare email tags and bonus guide for the broadcast email + Live training.
+
 
 
 
