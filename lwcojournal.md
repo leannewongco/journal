@@ -79,6 +79,8 @@
 - [SSO Course] Draft broadcast email about the Live training.
 - [SSO Course] Prepare email tags and bonus guide for the broadcast email + Live training.
 
+## 16 July 2021, Friday
+- [SSO Course] Drafted core web vitals ebook for bonus of the Live Training.
 
 
 
