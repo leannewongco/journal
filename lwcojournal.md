@@ -85,12 +85,16 @@
 ## 17 July 2021, Saturday
 - [SSO Course] Completed 16-pageebook core web vitals guide for bonus of the Live Training.
 - [Blog BAU] Created testimonial IG post for SEO Copywriting Fundamentals.
-- [SSO Course] Created and changed FB Group Cover photo to Live Training event.
-- [SSO Course] Created FB Group Post on Live Training reminder. 
-- [SSO Course] Created email broadcast reminder on Live Training today.
-- [SSO Course] Published IG story with Leanne talking with captions on Live Training today.
-- [SSO Course] Published IG post on Live Training today. Used SSO brand colors.
+- [SSO-LT1] Created and changed FB Group Cover photo to Live Training event.
+- [SSO-LT1] Created FB Group Post on Live Training reminder. 
+- [SSO-LT1] Created email broadcast reminder on Live Training today.
+- [SSO-LT1] Published IG story with Leanne talking with captions on Live Training today.
+- [SSO-LT1] Published IG post on Live Training today. Used SSO brand colors.
+- [SSO-LT1] Approved 20+ people to join the SEO for Beginners FB group.
+- [SSO-LT1] Rehearsed and revised script for Live Training today.
+- [SSO-LT1] Live Training: Site Speed, Core Web vitals and SEO in 2021. Time: 12pm EST// 9am PST. 
 - [Blog] Start working on new lightweight layout of the LWCO homepage.
+
 
 
 
