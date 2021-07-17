@@ -83,11 +83,15 @@
 - [SSO Course] Drafted core web vitals ebook for bonus of the Live Training.
 
 ## 17 July 2021, Saturday
-- [SSO Course] Continue working on ebook core web vitals guide for bonus of the Live Training.
+- [SSO Course] Completed 16-pageebook core web vitals guide for bonus of the Live Training.
 - [Blog BAU] Created testimonial IG post for SEO Copywriting Fundamentals.
 - [SSO Course] Created and changed FB Group Cover photo to Live Training event.
-- [SSO Course] Schedule FB Group Post on Live Training reminder. 
-- [SSO Course] Schedule email broadcast reminder on Live Training today.
+- [SSO Course] Created FB Group Post on Live Training reminder. 
+- [SSO Course] Created email broadcast reminder on Live Training today.
+- [SSO Course] Published IG story with Leanne talking with captions on Live Training today.
+- [SSO Course] Published IG post on Live Training today. Used SSO brand colors.
+- [Blog] Start working on new lightweight layout of the LWCO homepage.
+
 
 
 
