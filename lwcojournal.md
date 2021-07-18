@@ -92,8 +92,12 @@
 - [SSO-LT1] Published IG post on Live Training today. Used SSO brand colors.
 - [SSO-LT1] Approved 20+ people to join the SEO for Beginners FB group.
 - [SSO-LT1] Rehearsed and revised script for Live Training today.
-- [SSO-LT1] Live Training: Site Speed, Core Web vitals and SEO in 2021. Time: 12pm EST// 9am PST. 
+- [SSO-LT1] Live Training: Site Speed, Core Web vitals and SEO in 2021. Time: 12pm EST// 9am PST. Small turnout but we got good questions and feedback.
 - [Blog] Start working on new lightweight layout of the LWCO homepage.
+
+## 18 July 2021, Sunday
+- [SSO Course] Sent thank you email + core web vitals guide attachment to the people who showed up for Live Training. Created a tag manually and added the people who showed up Live - identified those people from the ones who commented. 
+ - [SSO Course] Prepare broadcast email for the replay to all subscribers.
 
 
 
