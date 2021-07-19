@@ -103,6 +103,7 @@
 ## 19 July 2021, Monday
 - [SSO] Video Screenshare: Prepare script + run through of the Site Speed Optimization course curriculum and core web vitals course curriculum on teachable. A look behind the program and what you'll be getting in the upcoming course launch in August. 
 - [SSO-Email-Launch-Sequences] Draft skeleton of the launch email sequences for August. 
+- [SSO-LT1] Draft a 'Cliff Notes' of the live Training - Site Speed, Core Web Vitals & SEO in 2021. Send to all subscribers as a freebie! - Schedule for 22 July, Thursday. 4 days after LT, 2 days after Replay Deadline. :)
 
 
 
