@@ -105,7 +105,8 @@
 - [SSO-Email-Launch-Sequences] Draft skeleton of the launch email sequences for August. 
 - [SSO-LT1] Draft a 'Cliff Notes' of the live Training - Site Speed, Core Web Vitals & SEO in 2021. Send to all subscribers as a freebie! - Schedule for 22 July, Thursday. 4 days after LT, 2 days after Replay Deadline. :)
 
-
+## 20 July 2021, Tuesday
+- [SSO-LT1] Completed the 'Cliff Notes' of the live Training - Site Speed, Core Web Vitals & SEO in 2021.
 
 
 
