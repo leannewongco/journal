@@ -109,6 +109,9 @@
 - [SSO-LT1] Completed the 'Cliff Notes' of the live Training - Site Speed, Core Web Vitals & SEO in 2021.
 - [Blog] Removed images and a few sections on the LWCO homepage to speed up the site and reduce clutter.
 
+## 21 July 2021, Wednesday
+- [SSO] Completed Convertkit email sequence for paid core web vitals ebook.
+
 
 
 
