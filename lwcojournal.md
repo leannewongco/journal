@@ -112,7 +112,8 @@
 ## 21 July 2021, Wednesday
 - [SSO] Completed Convertkit email sequence for paid core web vitals ebook.
 - [Pinterest] Scheduled 7 days of new pins.
-- [Tailwind] Scheduled 10 days of existing pins (re-pinning).
+- [Pinterest] Removed secret boards.
+- [Tailwind] Scheduled 10 days of existing pins until 31 July.
 - [Tailwind] Re-created smartloop and repin schedule.
 
 - [Blog Comments] Scheduled for 10 days of blog comments on existing blog posts.
