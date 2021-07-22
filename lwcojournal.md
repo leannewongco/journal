@@ -115,11 +115,12 @@
 - [Pinterest] Removed secret boards.
 - [Tailwind] Scheduled 10 days of existing pins until 31 July.
 - [Tailwind] Re-created smartloop and repin schedule.
-
 - [Blog Comments] Scheduled for 10 days of blog comments on existing blog posts.
 
-
-
+## 22 July 2021, Thursday
+- [Blog] Work on preloading and site speed improvements for wordpress and elementor settings.
+- [IDEA] Optimization services for Wordpress and Elementor specific websites.
+- [CWV ebook] Worked on CWV ebook and the duely integration on Live.
 
 
 
