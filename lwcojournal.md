@@ -122,6 +122,15 @@
 - [IDEA] Optimization services for Wordpress and Elementor specific websites.
 - [CWV ebook] Worked on CWV ebook and the duely integration on Live.
 
+## 23 July 2021, Friday
+- [CWV ebook] Sent broadcast email about $9 Core Web Vitals ebook to Group #1 - 70 subscribers. Waiting for results
+- [Duely] Tested duely checkout page + convertkit automation, works!! 
+
+## 24 July 2021, Saturday
+- [CWV ebook] Create a short tripwire landing page for the $9 Core Web Vitals ebook. Use this to upsell for all site speed and technical seo related blog posts, freebies and YouTube videos. Use duely checkout.
+- [CWV ebook] Prepare FB ads for the CWV ebook landing page. 1) COLD: Use the broad audience targeting. 2) Warm: use warm audience.
+
+
 
 
  
