@@ -127,9 +127,10 @@
 - [Duely] Tested duely checkout page + convertkit automation, works!! 
 
 ## 24 July 2021, Saturday
-- [CWV ebook] Create a short tripwire landing page for the $9 Core Web Vitals ebook. Use this to upsell for all site speed and technical seo related blog posts, freebies and YouTube videos. Use duely checkout.
-- [CWV ebook] Prepare FB ads for the CWV ebook landing page. 1) COLD: Use the broad audience targeting. 2) Warm: use warm audience.
-
+- [CWV ebook] Created a short tripwire landing page for the $9 Core Web Vitals ebook. Use this to upsell for all site speed and technical seo related blog posts, freebies and YouTube videos. Use duely checkout.
+- [CWV ebook-FB ADS] Prepared FB ads for the CWV ebook landing page. Used Warm audience, updated for ThruPlay video views.
+- [Blog] Created leannewongco links subdomain for Instagram. Used Elementor and generate press theme to build a one-page site. Live and ready on Instagram.
+- [CWV ebook-PINTEREST] Create new pins for the CWV ebook and publish new pins to the new landing page.
 
 
 
