@@ -131,6 +131,7 @@
 - [CWV ebook-FB ADS] Prepared FB ads for the CWV ebook landing page. Used Warm audience, updated for ThruPlay video views.
 - [Blog] Created leannewongco links subdomain for Instagram. Used Elementor and generate press theme to build a one-page site. Live and ready on Instagram.
 - [CWV ebook-PINTEREST] Create new pins for the CWV ebook and publish new pins to the new landing page.
+- [FB ADS] Set up FB conversions API with Wordpress Partner Integration (Plugin installed on LWCO site). Created the new purchase event with event set up tool to CWV ebook thank you page. Tested it. Works.
 
 
 
