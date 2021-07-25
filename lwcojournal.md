@@ -133,7 +133,8 @@
 - [CWV ebook-PINTEREST] Create new pins for the CWV ebook and publish new pins to the new landing page.
 - [FB ADS] Set up FB conversions API with Wordpress Partner Integration (Plugin installed on LWCO site). Created the new purchase event with event set up tool to CWV ebook thank you page. Tested it. Works.
 
-
+## 25 July 2021, Sunday
+- [FB ADS] Created CWV ebook creative for Stories.
 
  
 
