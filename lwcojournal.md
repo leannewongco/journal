@@ -135,6 +135,7 @@
 
 ## 25 July 2021, Sunday
 - [FB ADS] Created CWV ebook creative for Stories.
+- [IG] Create Hastag 'repository'
 
  
 
