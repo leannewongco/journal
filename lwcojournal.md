@@ -137,6 +137,7 @@
 - [FB ADS] Created CWV ebook creative for Stories.
 - [IG] Create Hastag 'repository'
 
- 
 
-
+## 26 July 2021, Monday
+- [Blog] Replied to blog comments.
+- [Blog] Updated blog post,'How to Evaluate Backlink Quality for SEO'.
