@@ -141,3 +141,7 @@
 ## 26 July 2021, Monday
 - [Blog] Replied to blog comments.
 - [Blog] Updated blog post,'How to Evaluate Backlink Quality for SEO'.
+
+## 27 July 2021, Tuesday
+- [Promoted Pins] Spoke to Pinterest Ads manager from Pinterest
+- [Simple Pins Society] Watched Hot Seat 1.
