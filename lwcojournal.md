@@ -148,3 +148,16 @@
 
 ## 28 July 2021, Wednesday
 - [Client] Full day client work.
+
+## 29 July 2021, Thursday
+- [Client] Full day client work.
+
+## 30 July 2021, Friday
+- [Client] Full day client work.
+
+## 30 July 2021, Saturday
+- [Client] Full day client work.
+
+## 1 August 2021, Sunday
+- [Blog] Replied to blog comments.
+- [SSO] Draft launch emails for SSO.
