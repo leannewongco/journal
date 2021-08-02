@@ -161,3 +161,7 @@
 ## 1 August 2021, Sunday
 - [Blog] Replied to blog comments.
 - [SSO] Draft launch emails for SSO.
+- [SSO] Sent email #1 pre-launch for SSO course bundle.
+
+## 2 August 2021, Monday
+- [Insta] Published post on email #1 pre-launch for SSO course bundle.
