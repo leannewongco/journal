@@ -165,3 +165,6 @@
 
 ## 2 August 2021, Monday
 - [Insta] Published post on email #1 pre-launch for SSO course bundle.
+
+## 3 August 2021, Tuesday
+- [SSO] Draft launch email #3.
