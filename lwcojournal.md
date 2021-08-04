@@ -168,3 +168,6 @@
 
 ## 3 August 2021, Tuesday
 - [SSO] Draft launch email #3.
+
+## 4 August 2021, Wednesday
+- [SSO] Draft launch email #4. Prepared 2 segments of launch emails.
