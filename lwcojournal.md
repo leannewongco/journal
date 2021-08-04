@@ -171,3 +171,4 @@
 
 ## 4 August 2021, Wednesday
 - [SSO] Draft launch email #4. Prepared 2 segments of launch emails.
+- [Pinterest] Tailwind Create - New pins for 4 days. 
