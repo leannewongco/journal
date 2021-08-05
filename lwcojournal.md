@@ -172,3 +172,7 @@
 ## 4 August 2021, Wednesday
 - [SSO] Draft launch email #4. Prepared 2 segments of launch emails.
 - [Pinterest] Tailwind Create - New pins for 4 days. 
+
+## 5 August 2021, Thursday
+- [SSO] Facebook Ads Conversion Campaign Checklist.
+- [Pinterest] Tailwind Create - New pins for 2 days. 
