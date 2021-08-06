@@ -175,4 +175,4 @@
 
 ## 5 August 2021, Thursday
 - [SSO] Facebook Ads Conversion Campaign Checklist.
-- [Pinterest] Tailwind Create - New pins for 2 days. c
+- [Pinterest] Tailwind Create - New pins for 2 days. css
