@@ -179,3 +179,7 @@
 
 ## 6 August 2021, Friday
 - [Pinterest] Tailwind Create - New Pin Design (2)
+
+## 7 August 2021, Saturday
+- [Client] Client work in the day.
+- [FB Ads SSO] Drafted ad copy 1 for SSO FB Ads
