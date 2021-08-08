@@ -183,3 +183,7 @@
 ## 7 August 2021, Saturday
 - [Client] Client work in the day.
 - [FB Ads SSO] Drafted ad copy 1 for SSO FB Ads
+
+## 8 August 2021, Sunday
+- [Client] Client work in the day.
+- [Pinterest] Created a Pinterest content bank spreadsheet
