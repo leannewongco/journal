@@ -191,3 +191,4 @@
 ## 9 August 2021, Monday
 - [SSO] Launch Email #5.
 - [Learning] Podcast episode - money making activities, time blocks to improve 3 pillars of business.
+- [SSO] Updated survey responses list for discounted coupon code!
