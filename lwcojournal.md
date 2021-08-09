@@ -187,3 +187,6 @@
 ## 8 August 2021, Sunday
 - [Client] Client work in the day.
 - [Pinterest] Created a Pinterest content bank spreadsheet
+
+## 9 August 2021, Monday
+- [SSO] Launch Email #5.
