@@ -192,3 +192,7 @@
 - [SSO] Launch Email #5.
 - [Learning] Podcast episode - money making activities, time blocks to improve 3 pillars of business.
 - [SSO] Updated survey responses list for discounted coupon code!
+
+## 10 August 2021, Tuesday
+- [SSO] LAUNCH DAY!!!
+- [SSO] Updated survey 10% off tag list with new respondents.
