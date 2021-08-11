@@ -196,3 +196,6 @@
 ## 10 August 2021, Tuesday
 - [SSO] LAUNCH DAY!!!
 - [SSO] Updated survey 10% off tag list with new respondents.
+
+## 11 August 2021, Wednesday
+- [SSO] Prepared Launch Email #6 for 10% off tag list.
