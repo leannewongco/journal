@@ -199,3 +199,6 @@
 
 ## 11 August 2021, Wednesday
 - [SSO] Prepared Launch Email #6 for 10% off tag list.
+
+## 12 August 2021, Thursday
+- Rest day.
