@@ -207,4 +207,4 @@
 - Rest day.
 
 ## 14 August 2021, Saturday
-- [SSO] Prepare Launch emails #6-7.
+- [SSO] Prepare Launch emails #6 and 7.
