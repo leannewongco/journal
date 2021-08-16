@@ -208,3 +208,9 @@
 
 ## 14 August 2021, Saturday
 - [SSO] Prepare Launch emails #6 and 7 for next week.
+
+## 15 August 2021, Sunday
+- Rest day.
+
+## 16 August 2021, Sunday
+- Rest day.
