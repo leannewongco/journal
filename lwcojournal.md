@@ -214,3 +214,9 @@
 
 ## 16 August 2021, Sunday
 - Rest day.
+
+## 17 August 2021, Monday
+- Rest day.
+
+## 18 August 2021, Tuesday
+- Prepare launch email #8.
