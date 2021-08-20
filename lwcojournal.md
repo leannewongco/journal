@@ -212,11 +212,17 @@
 ## 15 August 2021, Sunday
 - Rest day.
 
-## 16 August 2021, Sunday
+## 16 August 2021, Monday
 - Rest day.
 
-## 17 August 2021, Monday
+## 17 August 2021, Tuesday
 - Rest day.
 
-## 18 August 2021, Tuesday
+## 18 August 2021, Wednesday
 - Prepare launch email #8.
+
+## 19 August 2021, Thursdau
+- Full day client work.
+
+## 20 August 2021, Friday
+- Created new FB conversion campaign for offer ending!
