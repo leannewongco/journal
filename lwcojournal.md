@@ -226,3 +226,9 @@
 
 ## 20 August 2021, Friday
 - Created new FB conversion campaign for offer ending!
+
+## 21 August 2021, Friday
+- Created and scheduled new pins for 2 weeks, 70 pins total.
+- [SSO] Launched FB Conversion Campaign 2: Offer Ending!
+- [Blog] Created new Single Post Template for Guides.
+- [Blog] Updated blog post and single post templates with post updated dates.
