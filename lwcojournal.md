@@ -232,3 +232,6 @@
 - [SSO] Launched FB Conversion Campaign 2: Offer Ending!
 - [Blog] Created new Single Post Template for Guides.
 - [Blog] Updated blog post and single post templates with post updated dates.
+
+## 22 August 2021, Saturday
+- [SSO] Created Email for Launch Offer.
