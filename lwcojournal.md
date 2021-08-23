@@ -235,3 +235,6 @@
 
 ## 22 August 2021, Saturday
 - [SSO] Created Email for Launch Offer.
+
+## 23 August 2021, Monday
+- [SSO] Created FAQ Email for Launch Offer.
