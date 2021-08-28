@@ -239,5 +239,17 @@
 ## 23 August 2021, Monday
 - [SSO] Created FAQ Email for Launch Offer.
 
-## 25 August 2021, Tuesday
+## 24 August 2021, Tuesday
 Client work.
+
+## 25 August 2021, Wednesday
+Client work.
+
+## 26 August 2021, Thursday
+Client work.
+
+## 27 August 2021, Friday
+Client work.
+
+## 28 August 2021, Saturday
+[SSO] Email for Last 2 days till launch ends.
