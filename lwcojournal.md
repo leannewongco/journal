@@ -255,3 +255,9 @@ Client work.
 [SSO] Email for Last 2 days till launch ends.
 ## 29 August 2021, Saunday
 [SSO] Prepare email for LAST DAY of launch!
+
+## 29 August 2021, Sunday
+Rest
+
+## 30 August 2021, Mondau
+[SSO] Prepare last 24h emails for LAST DAY of launch!
