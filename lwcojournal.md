@@ -259,5 +259,9 @@ Client work.
 ## 29 August 2021, Sunday
 Rest
 
-## 30 August 2021, Mondau
+## 30 August 2021, Monday
 [SSO] Prepare last 24h emails for LAST DAY of launch!
+
+## 31 August 2021, Tuesday
+[SSO] Final emails for LAST CALL
+[List building] Cleaned up email list subscribers
