@@ -265,3 +265,6 @@ Rest
 ## 31 August 2021, Tuesday
 [SSO] Final emails for LAST CALL
 [List building] Cleaned up email list subscribers
+
+## 3 September 2021, Friday
+Client work.
