@@ -268,3 +268,7 @@ Rest
 
 ## 3 September 2021, Friday
 Client work.
+
+## 4 September 2021, Saturday
+- Updated imac mockup image for Blog Startup course
+[CEO time] Wrote a list of activities to do and focus on for the blog.
