@@ -274,3 +274,7 @@ Client work.
 [CEO time] Wrote a list of activities to do and focus on for the blog.
 - [SEO Copywriting Fundamentals] Removed evergreen $100 discount.
 - [ FB Ads] Created FB Costs and ROAS Template
+
+## 11 September 2021, Saturday
+- Updated old blog posts.
+- Client work.
