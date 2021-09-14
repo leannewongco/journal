@@ -278,3 +278,6 @@ Client work.
 ## 11 September 2021, Saturday
 - Updated old blog posts.
 - Client work.
+
+## 14 September 2021, Tuesday
+- Client work.
