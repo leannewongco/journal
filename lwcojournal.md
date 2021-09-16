@@ -287,3 +287,6 @@ Client work.
 
 ## 16 September 2021, Thursday
 - [SEO Demystified] Course Update outline
+
+## 17 September 2021, Thursday
+- [SEO Demystified] Course Update outline
