@@ -290,3 +290,9 @@ Client work.
 
 ## 17 September 2021, Thursday
 - [SEO Demystified] Course Update outline
+
+## 18 September 2021, Friday
+- Client work
+
+## 19 September 2021, Saturday
+- Rest
