@@ -288,11 +288,11 @@ Client work.
 ## 16 September 2021, Thursday
 - [SEO Demystified] Course Update outline
 
-## 17 September 2021, Thursday
+## 17 September 2021, Friday
 - [SEO Demystified] Course Update outline
 
-## 18 September 2021, Friday
-- Client work
-
-## 19 September 2021, Saturday
+## 18 September 2021, Saturday
 - Rest
+
+## 19 September 2021, Saunday
+- [SEO Demystified] Course Update Unit 2 
