@@ -294,5 +294,8 @@ Client work.
 ## 18 September 2021, Saturday
 - Rest
 
-## 19 September 2021, Saunday
+## 19 September 2021, Sunday
 - [SEO Demystified] Course Update Unit 2 
+
+## 20 September 2021, Monday
+- [SEO Demystified] Keyword Research Update
