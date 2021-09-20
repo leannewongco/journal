@@ -298,4 +298,4 @@ Client work.
 - [SEO Demystified] Course Update Unit 2 
 
 ## 20 September 2021, Monday
-- [SEO Demystified] Keyword Research Update
+- Client work
