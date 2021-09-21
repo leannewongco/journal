@@ -299,3 +299,6 @@ Client work.
 
 ## 20 September 2021, Monday
 - Client work
+
+## 21 September 2021, Tuesday
+- Client work
