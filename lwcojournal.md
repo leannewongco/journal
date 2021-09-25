@@ -308,3 +308,9 @@ Client work.
 
 ## 23 September 2021, Thursday
 - Client work
+
+## 24 September 2021, Friday
+- Client work
+
+## 25 September 2021, Saturday
+- Rest day + reading
