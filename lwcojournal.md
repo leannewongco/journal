@@ -314,3 +314,6 @@ Client work.
 
 ## 25 September 2021, Saturday
 - Rest day + reading
+
+## 26 September 2021, Sunday
+- [LWCO] Prepare portfolio client case studies
