@@ -317,3 +317,6 @@ Client work.
 
 ## 26 September 2021, Sunday
 - [LWCO] Prepare portfolio client case studies
+
+## 27 September 2021, Monday
+- [Learning] Client conversions, opt-in, strategy/discovery calls 
