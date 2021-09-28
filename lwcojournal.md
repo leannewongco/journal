@@ -320,3 +320,7 @@ Client work.
 
 ## 27 September 2021, Monday
 - [Learning] Client conversions, opt-in, strategy/discovery calls 
+
+## 27 September 2021, Monday
+- [Learning] Coaching opt-in, thank you page.
+- [IG] Create graphics, text copy and strategy for Q4 content.
