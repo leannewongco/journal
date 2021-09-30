@@ -329,3 +329,6 @@ Client work.
 ## 29 September 2021, Wednesday
 - [Learning] Coaching call
 - [IG] IG content Plan and graphic templates
+
+## 30 September 2021, Thursday
+- [Learning] Coaching strategy sales 
