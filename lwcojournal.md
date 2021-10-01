@@ -332,3 +332,6 @@ Client work.
 
 ## 30 September 2021, Thursday
 - [Learning] Coaching strategy sales 
+
+## 1 October 2021, Friday
+- [Learning] Sales call
