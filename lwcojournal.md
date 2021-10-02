@@ -335,3 +335,6 @@ Client work.
 
 ## 1 October 2021, Friday
 - [Learning] Sales call
+
+## 2 October 2021, Saturday
+- [Blog] New blog post on list building
