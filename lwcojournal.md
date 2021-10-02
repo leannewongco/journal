@@ -340,3 +340,6 @@ Client work.
 - [Blog] New blog post on list building
 - [Services] Prepare portfolio case studies.
 - [Pinterest] Create and schedule new pins until 74 new pins, until 16 October 2021.
+
+## 3 October 2021, Sunday
+- [Pinterest] Schedule pins on Tailwind until end of October 2021.
