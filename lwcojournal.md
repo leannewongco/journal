@@ -339,4 +339,4 @@ Client work.
 ## 2 October 2021, Saturday
 - [Blog] New blog post on list building
 - [Services] Prepare portfolio case studies.
-- [Pinterest] Create and schedule new pins.
+- [Pinterest] Create and schedule new pins until 74 new pins, until 16 October 2021.
