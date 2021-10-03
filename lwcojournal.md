@@ -345,3 +345,6 @@ Client work.
 - [Pinterest] Schedule pins on Tailwind until end of October 2021.
 - [Blog] Update old blog posts
 - [Portfolio] Work on portfolio main page, create case study 1.
+
+## 4 October 2021, Monday
+- [Coaching] Prepare Market Research Questions
