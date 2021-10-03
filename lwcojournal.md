@@ -343,3 +343,4 @@ Client work.
 
 ## 3 October 2021, Sunday
 - [Pinterest] Schedule pins on Tailwind until end of October 2021.
+- [Blog] Update old blog posts
