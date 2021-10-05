@@ -352,5 +352,5 @@ Client work.
 ## 5 October 2021, Tuesday
 - [Coaching] Prepare content plan for email sequences to re-engage audience + lead up to survey
 - [Coaching] Prepare IG content plan
-- [Client] Work on client deck for 3 hours in the morning.
+- [Client] Work on client deck and complete.
 
