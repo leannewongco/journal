@@ -354,3 +354,5 @@ Client work.
 - [Coaching] Prepare IG content plan
 - [Client] Work on client deck and complete.
 
+## 6 October 2021, Wednesday
+- [Blog] Prepare content plan for results and portfolio.
