@@ -357,3 +357,6 @@ Client work.
 ## 6 October 2021, Wednesday
 - [Blog] Prepare content plan for results and portfolio.
 - [Blog] Published new blog post, Website Load Time in 2021: How Fast Should Your Site Load?
+
+## 7 October 2021, Thursday
+- [Coaching] Prepare first draft of emails to send to re-engage subscribers + participate in market research survey.
