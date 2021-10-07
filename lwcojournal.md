@@ -360,3 +360,6 @@ Client work.
 
 ## 7 October 2021, Thursday
 - [Coaching] Prepare first draft of emails to send to re-engage subscribers + participate in market research survey.
+
+## 8 October 2021, Friday
+- [Blog] Update exisiting article on the blog.
