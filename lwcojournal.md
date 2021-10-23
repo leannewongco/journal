@@ -363,3 +363,6 @@ Client work.
 
 ## 8 October 2021, Friday
 - [Blog] Update exisiting article on the blog.
+
+## 23 October 2021, Saturday
+- [Coaching] Study survey questions and think about coaching outline.
